@@ -1,5 +1,8 @@
+channels:
+  - conda-forge
 dependencies:
   - python
   - numpy
   - matplotlib
+  - jupyterlab
   - ipywidgets
